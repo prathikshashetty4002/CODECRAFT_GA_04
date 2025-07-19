@@ -24,7 +24,7 @@ Train a basic Generative Adversarial Network (GAN) to generate handwritten digit
 ## 🖼️ Output
 Generated sample images after 3 epochs of training:
 
-![Generated Image](screenshot.png)
+![Generated Image](Screenshot(173).png)
 
 ---
 
